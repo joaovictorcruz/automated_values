@@ -90,5 +90,5 @@ Para verificar se os valores estão corretos, você pode abrir o **verify.ipynb*
 🚀 Feito para facilitar a atualização de dados em planilhas sem perder a formatação!  
 📌 Se precisar de ajustes, modifique os nomes dos arquivos e colunas conforme sua necessidade!  
 
-**Desenvolvido por [Seu Nome](https://github.com/seu-usuario)**
+**Desenvolvido por [João Victor Cruz](https://github.com/joaovictorcruz)**
 
